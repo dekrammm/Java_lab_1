@@ -1,5 +1,5 @@
-public class main extends Task{
-    public static void main(String[] args) {
+public class Main extends Task{
+    public static void Main(String[] args) {
         int x = 0;
         String a = "", b = "";
         x = scan_Int(x);
