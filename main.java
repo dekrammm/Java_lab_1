@@ -5,6 +5,6 @@ public class main extends Task{
         x = scan_Int(x);
         a = scan_Str(a);
         b = scan_Str(b);
-        prog(x, a, b); //lll
+        prog(x, a, b);
     }
 }
